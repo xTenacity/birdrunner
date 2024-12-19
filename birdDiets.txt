@@ -1,0 +1,100 @@
+seeds, insects
+frogs, seeds, leaves, fish
+flying insects
+squid, fish, crustaceans
+fish, crustaceans
+fish, small mammals, birds
+fish, insects, crustaceans, amphibians
+fish, crustaceans, frogs, insects
+fish, squid
+nuts, grain, corn, berries, insects
+fruit, berries, insects
+flies, dragonflies, small lizards
+insects, suet, seeds
+ants, small insects
+nectar, spiders
+insects, fruits, seeds
+flying insects
+seeds, insects, larvae
+seeds, shrubs, grass, fruit, flowers, insects
+fruit, seeds, grain, leaves
+carrion, grain, berries, insects, small animals, garbage
+larvae, snails, crustaceans, crabs, clams
+carcasses
+seeds, insects
+fish
+insects, crayfish, small mammals
+flying insects
+insects, nectar
+insects, fruit
+shoots, roots, berries
+fruit, insects
+flying insects
+insects, plants
+insects, fruit, nectar
+seeds
+fish, crabs, insects, frogs
+fruits, anthropods
+fish, crabs, jellyfish
+fruit
+flying insects
+fish
+plankton, tiny fish, crustaceans
+monkeys, birds, sloths,
+fish, crabs, worms, insects
+leaves, fruit, flowers
+plants, seeds, fruits, pollen
+carcasses, dead fish, dead lizards
+snakes, lizards, rodents
+mice, insects, fish
+licuri palm nuts
+grubs, insects, berries
+crustaceans, squid, fish
+insects, worms, crustaceans, seeds, plants
+seeds, snails, insects
+Insects
+leaves, seeds, flowers, grasses
+seeds, grain, fruit, insects
+insects
+pigeons, doves, waterfowl, songbirds
+crustaceans, insects
+insects, fruit, nuts, berries
+spiders, caterpillars, beetles
+pinyon seeds, pine seeds
+fish, crustaceans
+blood, ticks, mites
+insects, conifer seeds, suet
+squid, flying fish
+fruit, insects
+eucalyptus nectar, insect honeydew
+insects, fish, grains, food scraps
+fruits, grains, insects, seeds, food scraps
+crustaceans, aquatic insects, frogs, newts and small fish
+insects, seeds, berries
+insects, fruit, seeds
+flower nectar, insects
+insects
+insects, berries, seeds, snails
+insects, small mammals, lizards, snakes
+birds, rodents
+fish, frogs, snakes
+insects, seeds
+insects, lizards, termites
+snails, crayfish
+small mammals, birds
+mosquitoes, moss, spiders, shrimp
+fruit, insects, frogs, seeds
+large insects
+fruit, insects, frogs, eggs
+beetles, snails, insects, seeds
+fish, squid, krill
+seeds, invertebrates
+fruit, seeds, insects
+seeds, small invertebrates
+aquatic insects, snails, small fish, crustaceans
+crustaceans, mollusks, fish, eels
+fruit, insects
+berries, seeds, insects
+tree sap, fruit, insects
+seeds, nuts
+fruit, seeds
